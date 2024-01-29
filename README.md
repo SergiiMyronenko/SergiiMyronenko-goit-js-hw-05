@@ -1,2 +1,2 @@
-# goit-js-hw-04
-JavaScript Home Assignment #4
+# goit-js-hw-05
+JavaScript Home Assignment #5
